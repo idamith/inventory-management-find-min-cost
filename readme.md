@@ -1,4 +1,4 @@
-#Problem: Inventory Management
+# Problem: Inventory Management
 
 <p>Recently a new online store opened on the Internet that sells iPods & iPhones. They are faced with an interesting problem of managing their inventory distributed across 2 countries: Brazil and Argentina. You have been assigned to write a program to minimize the sale price for online customers based on its inventory in these 2 countries.</p>
 <p>The price are different based on the country where the inventory is stored. The inventory in the two countries is limited. There are 100 iPods in Brazil which have a sale price of $65 whereas there are 100 in Argentina which have a sale price of $100. There are 100 iPhone in Brazil which have a sale price of $100 whereas there are 50 in Argentina which have a sale price of $150. For simplicity we will use US dollars as our transaction currency.</p>
